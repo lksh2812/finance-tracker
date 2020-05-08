@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finance tracker app from the Complete Ruby on Rails Developer course. This app is intended to learn fast and effective develoment using ruby on rails framework.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.6.4
 
-* System dependencies
+* Rails version: 6.0.2
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
